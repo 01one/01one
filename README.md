@@ -64,6 +64,6 @@ I'm available for freelance projects on Upwork! I specialize in:
 
 ---
 
-⭐ **Fun Fact**: I believe in writing clean, maintainable code that solves real-world problems!
+I believe in writing clean, maintainable code that solves real-world problems!
 
 *Ready to bring your ideas to life? Let's work together!*
