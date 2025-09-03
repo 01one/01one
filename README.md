@@ -55,7 +55,7 @@ I'm available for freelance projects on Upwork! I specialize in:
 ## 🤝 Let's Connect
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01854bd96ac7478e84)
-- 📧 Feel free to reach out for collaborations or freelance opportunities!
+- 📧 Feel free to reach out for collaborations
 
 ## 🎯 What I'm Working On
 
