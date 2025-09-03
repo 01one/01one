@@ -48,8 +48,6 @@ I'm available for freelance projects on Upwork! I specialize in:
 
 ## 📈 GitHub Stats
 
-![01one's GitHub stats](https://github-readme-stats.vercel.app/api?username=01one&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01one&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
