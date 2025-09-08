@@ -1,15 +1,15 @@
-# Hi there! 👋 I'm @01one
+# 01one
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating practical solutions and innovative applications.
+Welcome to my GitHub profile. I am a developer focused on building practical solutions and innovative applications.
 
-## 🚀 About Me
+## About Me
 
-- 💼 **Available for freelance projects** on [Upwork](https://www.upwork.com/freelancers/~01854bd96ac7478e84)
-- 🔭 I'm currently working on various web applications and automation tools
-- 🌱 I'm passionate about Python, Flask, Android development, and document processing
-- 💡 I love building solutions that simplify complex tasks
+- **Freelance Available:** [Upwork](https://www.upwork.com/freelancers/~01854bd96ac7478e84)  
+- Currently working on web applications and automation tools  
+- Passionate about Python, Flask, Tornado, websockets and document processing  
+- Focused on building solutions that simplify complex tasks  
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -18,52 +18,32 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating pra
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## 📚 Featured Projects
+## Featured Projects
 
-### 🌟 [FlexaFlow](https://github.com/flexaflow/flexaflow-flask)
-Content Management System built with Python and Flask - Powerful yet simple to use.
+- **[FlexaFlow](https://github.com/flexaflow/flexaflow-flask)**: A content management system built with Python and Flask, powerful yet simple to use.  
+- **[Android WebView Template](https://github.com/01one/AndroidWebviewTemplate)**: Minimal Android WebView template for apps built with HTML, CSS, and JavaScript.  
+- **[Single Page Flask](https://github.com/01one/single-page-flask)**: Flask-based single-page applications for modern web development.  
+- **[0zen](https://github.com/01one/0zen)**: Automated PDF and Word report generation from Excel files.  
+- **[UniDoc](https://github.com/01one/unidoc)**: Universal document viewer supporting multiple formats.  
 
-### 📱 [Android WebView Template](https://github.com/01one/AndroidWebviewTemplate)
-The simplest Android WebView template to create Android apps using HTML, CSS, and JavaScript.
+## Freelance Services
 
-### 🔄 [Single Page Flask](https://github.com/01one/single-page-flask)
-Flask-based single page applications for modern web development.
+Available for freelance projects on Upwork. Specialties include:
 
-### 📊 [0zen](https://github.com/01one/0zen)
-Automated PDF and Word report generation from Excel files - streamlining document workflows.
+- **Web Development**: Flask apps, SPAs, CMS  
+- **Mobile Development**: Android WebView apps, hybrid solutions  
+- **Automation**: Document processing, report generation, workflow automation  
+- **Custom Solutions**: Tailored applications for specific needs  
 
-### 📄 [UniDoc](https://github.com/01one/unidoc)
-Universal Document Viewer for handling various document formats seamlessly.
+[Hire me on Upwork](https://www.upwork.com/freelancers/~01854bd96ac7478e84)
 
-## 💼 Freelance Services
-
-I'm available for freelance projects on Upwork! I specialize in:
-
-- **Web Development**: Flask applications, single-page applications, CMS development
-- **Mobile Development**: Android WebView applications, hybrid mobile solutions
-- **Automation**: Document processing, report generation, workflow automation
-- **Custom Solutions**: Tailored applications to meet your specific needs
-
-[📞 **Hire me on Upwork**](https://www.upwork.com/freelancers/~01854bd96ac7478e84)
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01one&layout=compact&theme=radical)
 
-## 🤝 Let's Connect
+## Current Focus
 
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01854bd96ac7478e84)
-- 📧 Feel free to reach out for collaborations
-
-## 🎯 What I'm Working On
-
-- Building scalable web applications with Flask
+- Developing scalable web applications with Flask  
 - Creating efficient document processing solutions
-- Developing user-friendly mobile applications
-- Exploring new technologies and frameworks
 
 ---
-
-I believe in writing clean, maintainable code that solves real-world problems!
-
-*Ready to bring your ideas to life? Let's work together!*
