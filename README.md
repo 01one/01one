@@ -37,9 +37,6 @@ Available for freelance projects on Upwork. Specialties include:
 
 [Hire me on Upwork](https://www.upwork.com/freelancers/~01854bd96ac7478e84)
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01one&layout=compact&theme=radical)
 
 ## Current Focus
 
