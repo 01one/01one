@@ -30,7 +30,7 @@ Welcome to my GitHub profile. I am a developer focused on building practical sol
 
 Available for freelance projects on Upwork. Specialties include:
 
-- **Web Development**: Flask apps, SPAs, CMS  
+- **Web Development**: Flask apps, CMS  
 - **Mobile Development**: Android WebView apps, hybrid solutions  
 - **Automation**: Document processing, report generation, workflow automation  
 - **Custom Solutions**: Tailored applications for specific needs  
