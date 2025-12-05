@@ -22,9 +22,7 @@ Welcome to my GitHub profile. I am a developer focused on building practical sol
 
 - **[FlexaFlow](https://github.com/flexaflow/flexaflow-flask)**: A content management system built with Python and Flask, powerful yet simple to use.  
 - **[Android WebView Template](https://github.com/01one/AndroidWebviewTemplate)**: Minimal Android WebView template for apps built with HTML, CSS, and JavaScript.  
-- **[Single Page Flask](https://github.com/01one/single-page-flask)**: Flask-based single-page applications for modern web development.  
 - **[0zen](https://github.com/01one/0zen)**: Automated PDF and Word report generation from Excel files.  
-- **[UniDoc](https://github.com/01one/unidoc)**: Universal document viewer supporting multiple formats.  
 
 ## Freelance Services
 
