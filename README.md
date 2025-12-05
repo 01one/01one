@@ -24,21 +24,11 @@ Welcome to my GitHub profile. I am a developer focused on building practical sol
 - **[Android WebView Template](https://github.com/01one/AndroidWebviewTemplate)**: Minimal Android WebView template for apps built with HTML, CSS, and JavaScript.  
 - **[0zen](https://github.com/01one/0zen)**: Automated PDF and Word report generation from Excel files.  
 
-## Freelance Services
 
-Available for freelance projects on Upwork. Specialties include:
-
-- **Web Development**: Flask apps, CMS  
-- **Mobile Development**: Android WebView apps, hybrid solutions  
-- **Automation**: Document processing, report generation, workflow automation  
-- **Custom Solutions**: Tailored applications for specific needs  
-
-[Hire me on Upwork](https://www.upwork.com/freelancers/~01854bd96ac7478e84)
 
 
 ## Current Focus
 
-- Developing scalable web applications with Flask  
-- Creating efficient document processing solutions
+- Developing scalable web applications with Python Tornado
 
 ---
